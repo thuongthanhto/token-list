@@ -15399,16 +15399,6 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb2f85b7ab3c2b6f62df06de6ae7d09c010a5096e.png"
         },
         {
-            "chainId": 11155111,
-            "address": "0xb19382073c7A0aDdbb56Ac6AF1808Fa49e377B75",
-            "name": "Balancer Governance Token",
-            "symbol": "BAL",
-            "decimals": 18,
-            "extensions": {
-                "coingeckoId": "balancer"
-            }
-        },
-        {
           "chainId": 11155111,
           "address": "0x5e657b5bB33EF2a07C13E759388dE20D0f097c34",
           "name": "Wrapped Ether",
