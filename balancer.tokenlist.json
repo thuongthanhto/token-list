@@ -1,0 +1,47 @@
+{
+  "name": "Balancer",
+  "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 19
+  },
+  "keywords": [
+      "Balancer",
+      "DeFi",
+      "DEX",
+      "AMM",
+      "Exchange",
+      "Liquidity",
+      "Pool",
+      "Token",
+      "Swap"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
+  "timestamp": "2024-10-18T17:57:00.675Z",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x5e657b5bB33EF2a07C13E759388dE20D0f097c34",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "extensions": {
+        "coingeckoId": "weth"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xc1c7B27362E51fa348ceBaE557883f7CFFDF29F6",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+      "name": "LINK",
+      "symbol": "LINK",
+      "decimals": 18
+    }
+  ]
+}
